@@ -1,0 +1,6 @@
+1) write a program to store seven fruits in a list entered by the user 
+2) write a program to accept marks of six students and display them in a sorted manner
+3) check that a type cannot be changed in python
+4) write a program to sum a list with 4 numbers
+5) write a program to count the number of zeros in the following tuple
+a=(7,0,8,0,0,9)

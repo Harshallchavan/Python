@@ -1,0 +1,16 @@
+write a python program to display a user entered name followed by good afternoon using input() function
+
+write a program to fill in a letter template given below with name and date 
+letter = '''
+Dear<|Name|>,
+you are selected!
+<|Date|>
+'''
+
+write a program to detect double space in a string 
+
+replace the double space from problem with single space 
+
+write a program to format the following letter using escape sequence characters
+
+letter="Dear Harshal, this python cource is nice ,thanks!"
